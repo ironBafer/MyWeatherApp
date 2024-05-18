@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:alpha="0.6"
         android:scaleType="fitXY"
-        android:src="@drawable/sky_background"
+        android:src="@drawable/painting_clouds"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
